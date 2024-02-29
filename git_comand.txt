@@ -1,0 +1,7 @@
+git init :- for initilizing the empty repooo
+git add :- to add the file in staging area
+git restore :- to get the old version of the file 
+git commit -m "some meaningful massage" :- to save the file in local repoo...
+git push -u origin master :- to push your code into the centrer remote repoo..
+git config --global.email :- to set the email addresss to your repo
+git config --global.user :- to set the username to the repo.. local
