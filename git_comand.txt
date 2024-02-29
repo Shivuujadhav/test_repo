@@ -5,3 +5,7 @@ git commit -m "some meaningful massage" :- to save the file in local repoo...
 git push -u origin master :- to push your code into the centrer remote repoo..
 git config --global.email :- to set the email addresss to your repo
 git config --global.user :- to set the username to the repo.. local
+git branch :- check the branches avaliable 
+git branch <branchName>:-  to make new branch
+git checkout (branchName) :- to go to that branch
+git clone<Url> :- to get remote brnach code in your local machine
